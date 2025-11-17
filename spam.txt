@@ -1,0 +1,260 @@
+#####################################################################
+# --- 终极广告规则库 V2 (专业合并版) ---
+# --- 由 Gemini 为 sykin 定制 ---
+# --- 您的 V7.1 脚本会自动忽略所有 # 开头的注释行 ---
+#####################################################################
+
+# --- 1. 核心链接/邀请模式 (高危) ---
+# 这是所有垃圾信息的核心
+t.me/+
+t.me/joinchat
+t.me/c/
+joinchat
+http://
+https://
+
+# --- 2. 中文广告 (CN) - 已合并扩展 ---
+# (赌博/博彩/金融/股票/期货)
+a股
+usdt
+trx
+u币
+博彩
+彩票
+车队
+代发
+代投
+担保
+点位
+点券
+电子
+赌博
+发单
+返利
+翻墙
+放水
+Gamble
+公群
+股票
+狗庄
+黑庄
+换汇
+会员
+基金
+机场
+加速
+兼职
+交友
+交易所
+节点
+解封
+赚钱
+空降
+理财
+留学生
+内幕
+跑分
+破解
+期货
+棋牌
+白资
+洗钱
+人民币
+色情
+上门
+上门服务
+试玩
+手续费
+刷单
+丝足
+体育
+外围
+外汇
+网红
+工作室
+洗米
+真人
+引流
+约P
+约炮
+直通
+主播
+直播
+投注
+资源
+# (色情/服务/其他)
+主播
+福利
+高端
+会所
+看片
+嫩模
+同城
+新茶
+资源
+工作室
+丝足
+外围
+约炮
+茶
+美女
+包养
+约p
+成人
+AV
+# (商品/服务/引流)
+代发
+发单
+涨粉
+刷粉
+拉人
+引流
+推广
+免费
+软件
+破解
+加速
+节点
+官网
+频道
+群组
+一手
+出现
+流量
+
+# --- 3. 英文广告 (EN) - 已合并扩展 ---
+# (Crypto/Finance/Scams)
+1000x
+100x
+airdrop
+betting
+binance
+bitcoin
+bullrun
+bounty
+cash
+crypto
+dump
+earn
+earn money
+eth
+forex
+free money
+giveaway
+ico
+invest
+investment
+loan
+money
+nft
+payment
+poker
+presale
+private sale
+profit
+pump
+roulette
+signal
+signals
+slots
+trading
+trx
+usdt
+whitelist
+work from home
+# (Adult/Spam)
+adult
+casino
+cialis
+dating
+gambling
+girls
+group
+hot
+my nudes
+my photos
+onlyfans
+pharma
+porn
+promo
+sex
+sexy
+viagra
+# (Services/Other)
+cheap
+check my profile
+click here
+followers
+free
+limited time
+members
+promo
+promotion
+register now
+services
+software
+special offer
+subscribers
+vpn
+
+# --- 4. 俄语/西里尔字母广告 (RU) ---
+# (俄语区高频垃圾词)
+казино
+ставки
+бонус
+порно
+девушки
+знакомства
+крипта
+биток
+сигналы
+заработок
+деньги
+инвестиции
+наркотик
+закладка
+проститутки
+интим
+слоты
+трейдинг
+бесплатно
+рулетка
+покер
+
+# --- 5. 阿拉伯/波斯/其他语言 (AR/FA...) ---
+مجاني
+موقع
+اربح
+حصريا
+للكبار
+فارکس
+کسب
+درآمد
+رایگان
+سکس
+کون
+کانال
+
+# --- 6. 垃圾链接特征 (高频垃圾域名 TLDs) ---
+# (这是V2版最有效的升级之一)
+.buzz
+.click
+.club
+.icu
+.life
+.live
+.link
+.loan
+.online
+.shop
+.site
+.top
+.vip
+.website
+.win
+.work
+.xyz
+
+#####################################################################
+# --- 规则库结束 ---
+#####################################################################
