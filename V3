@@ -1,0 +1,355 @@
+^t\.me/\+
+^t\.me/joinchat
+^t\.me/c/
+^joinchat
+^http://
+^https://
+bit\.ly/
+t\.co/
+short\.link/
+invite\.link/
+group\.me/
+channel\.me/
+a股
+usdt
+trx
+u币
+博彩
+彩票
+车队
+代发
+代投
+担保
+点位
+点券
+电子
+赌博
+发单
+返利
+翻墙
+放水
+Gamble
+公群
+股票
+狗庄
+黑庄
+换汇
+会员
+基金
+机场
+加速
+兼职
+交友
+交易所
+节点
+解封
+赚钱
+空降
+理财
+留学生
+内幕
+跑分
+破解
+期货
+棋牌
+白资
+洗钱
+人民币
+色情
+上门
+上门服务
+试玩
+手续费
+刷单
+丝足
+体育
+外围
+外汇
+网红
+工作室
+洗米
+真人
+引流
+约P
+约炮
+直通
+主播
+直播
+投注
+资源
+DeFi
+yield farm
+staking
+airdrop cn
+pump cn
+操盘
+机器人操盘
+AI信号
+量化
+杠杆
+爆仓
+主播
+福利
+高端
+会所
+看片
+嫩模
+同城
+新茶
+资源
+工作室
+丝足
+外围
+约炮
+茶
+美女
+包养
+约p
+成人
+AV
+VR porn
+AI女友
+深伪
+换脸
+裸聊
+视频通话
+私密
+足控
+SM
+调教
+女王
+奴隶
+代发
+发单
+涨粉
+刷粉
+拉人
+引流
+推广
+免费
+软件
+破解
+加速
+节点
+官网
+频道
+群组
+一手
+出现
+流量
+NFT
+数字藏品
+盲盒
+元宇宙
+web3
+机器人刷
+自动脚本
+1000x
+100x
+airdrop
+betting
+binance
+bitcoin
+bullrun
+bounty
+cash
+crypto
+dump
+earn
+earn money
+eth
+forex
+free money
+giveaway
+ico
+invest
+investment
+loan
+money
+nft
+payment
+poker
+presale
+private sale
+profit
+pump
+roulette
+signal
+signals
+slots
+trading
+trx
+usdt
+whitelist
+work from home
+solana
+memecoin
+pepe
+doge pump
+AI trading
+bot signal
+auto trade
+yield
+farm
+stake
+rug pull
+adult
+casino
+cialis
+dating
+gambling
+girls
+group
+hot
+my nudes
+my photos
+onlyfans
+pharma
+porn
+promo
+sex
+sexy
+viagra
+AI nudes
+deepfake
+virtual gf
+cam girl
+escort
+hook up
+cheap
+check my profile
+click here
+followers
+free
+limited time
+members
+promo
+promotion
+register now
+services
+software
+special offer
+subscribers
+vpn
+cloud mine
+fake app
+cracked apk
+premium free
+казино
+ставки
+51
+бонус
+порно
+девушки
+знакомства
+крипта
+биток
+сигналы
+заработок
+деньги
+инвестиции
+наркотик
+закладка
+проститутки
+интим
+слоты
+трейдинг
+бесплатно
+рулетка
+покер
+канал
+группа
+сигналы бот
+автоставки
+مجاني
+موقع
+اربح
+حصريا
+للكبار
+فارکس
+کسب
+درآمد
+رایگان
+سکس
+کون
+کانال
+ücretsiz
+para kazan
+kumar
+seks
+casino
+üye ol
+promo tr
+gratis id
+judi
+dewasa
+.buzz
+.click
+.club
+.icu
+.life
+.live
+.link
+.loan
+.online
+.shop
+.site
+.top
+.vip
+.website
+.win
+.work
+.xyz
+.ai
+.io
+.new
+.app
+.dev
+.cloud
+.host
+.space
+.tech
+.fun
+.pw
+.cc
+無料
+稼ぐ
+ギャンブル
+アダルト
+ポルノ
+カジノ
+投資
+クリプト
+NFT
+무료
+수익
+도박
+성인
+포르노
+카지노
+투자
+크립토
+miễn phí
+kiếm tiền
+cờ bạc
+người lớn
+phim sex
+casino
+đầu tư
+crypto
+AI bot
+chatgpt scam
+grok clone
+fake ai
+auto reply spam
+spam bot
+telegram bot scam
+discord nitro free
+roblox robux
+free vbucks
+/\d{3,}x/i
+/^earn\s+\d+/i
+/free\s+(usdt|btc|eth)/i
+/pump\s+and\s+dump/i
+/onlyfans?\s+link/i
+/^join\s+my\s+group/i
