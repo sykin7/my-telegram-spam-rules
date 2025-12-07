@@ -29,5 +29,6 @@ jobs:
       - name: Commit and Push Changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: chore: Auto update spam.txt rules
+          # 关键修复：字符串包含冒号，必须用单引号包裹
+          commit_message: 'chore: Auto update spam.txt rules'
           file_pattern: spam.txt
