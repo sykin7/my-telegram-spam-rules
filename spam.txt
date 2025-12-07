@@ -1,249 +1,10 @@
-#####################################################################
-# --- 广告规则库 ---
-# --- 日常使用 ---
-# --- 脚本会自动忽略所有 # 开头的注释行 ---
-#####################################################################
-
-# --- 1. 核心链接/邀请模式 (高危) ---
-# 这是所有垃圾信息的核心
-t.me/+
-t.me/joinchat
-t.me/c/
-joinchat
-http://
-https://
-
-# --- 2. 中文广告 (CN) - 已合并扩展 ---
-# (赌博/博彩/金融/股票/期货)
-a股
-usdt
-trx
-U
-u币
-博彩
-彩票
-车队
-代发
-代投
-担保
-点位
-点券
-电子
-赌博
-发单
-返利
-翻墙
-放水
-Gamble
-公群
-股票
-狗庄
-黑庄
-换汇
-会员
-基金
-机场
-加速
-兼职
-交友
-交易所
-节点
-解封
-赚钱
-空降
-理财
-留学生
-内幕
-跑分
-破解
-期货
-棋牌
-白资
-洗钱
-人民币
-色情
-上门
-上门服务
-试玩
-手续费
-刷单
-丝足
-体育
-外围
-外汇
-网红
-工作室
-洗米
-真人
-引流
-约P
-约炮
-直通
-主播
-直播
-投注
-资源
-# (色情/服务/其他)
-主播
-福利
-高端
-会所
-看片
-嫩模
-同城
-新茶
-资源
-工作室
-丝足
-外围
-约炮
-茶
-美女
-包养
-约p
-成人
-AV
-# (商品/服务/引流)
-代发
-发单
-涨粉
-刷粉
-拉人
-引流
-推广
-免费
-软件
-破解
-加速
-节点
-官网
-频道
-群组
-一手
-出现
-流量
-
-# --- 3. 英文广告 (EN) - 已合并扩展 ---
-# (Crypto/Finance/Scams)
-1000x
-100x
-airdrop
-betting
-binance
-bitcoin
-bullrun
-bounty
-cash
-crypto
-dump
-earn
-earn money
-eth
-forex
-free money
-giveaway
-ico
-invest
-investment
-loan
-money
-nft
-payment
-poker
-presale
-private sale
-profit
-pump
-roulette
-signal
-signals
-slots
-trading
-trx
-usdt
-whitelist
-work from home
-# (Adult/Spam)
-adult
-casino
-cialis
-dating
-gambling
-girls
-group
-hot
-my nudes
-my photos
-onlyfans
-pharma
-porn
-promo
-sex
-sexy
-viagra
-# (Services/Other)
-cheap
-check my profile
-click here
-followers
-free
-limited time
-members
-promo
-promotion
-register now
-services
-software
-special offer
-subscribers
-vpn
-
-# --- 4. 俄语/西里尔字母广告 (RU) ---
-# (俄语区高频垃圾词)
-казино
-ставки
-бонус
-порно
-девушки
-знакомства
-крипта
-биток
-сигналы
-заработок
-деньги
-инвестиции
-наркотик
-закладка
-проститутки
-интим
-слоты
-трейдинг
-бесплатно
-рулетка
-покер
-
-# --- 5. 阿拉伯/波斯/其他语言 (AR/FA...) ---
-مجاني
-موقع
-اربح
-حصريا
-للكبار
-فارکس
-کسب
-درآمد
-رایگان
-سکس
-کون
-کانال
-
-# --- 6. 垃圾链接特征 (高频垃圾域名 TLDs) ---
 .buzz
 .click
 .club
 .icu
 .life
-.live
 .link
+.live
 .loan
 .online
 .shop
@@ -254,7 +15,599 @@ vpn
 .win
 .work
 .xyz
-
-#####################################################################
-# --- 规则库结束 ---
-#####################################################################
+1000x
+100x
+2 girls 1 cup
+2g1c
+acrotomophilia
+adult
+airdrop
+alabama hot pocket
+alaskan pipeline
+anal
+anilingus
+anus
+apeshit
+arsehole
+ass
+asshole
+assmunch
+auto erotic
+autoerotic
+av
+a股
+babeland
+baby batter
+baby juice
+ball gag
+ball gravy
+ball kicking
+ball licking
+ball sack
+ball sucking
+bangbros
+bangbus
+bareback
+barely legal
+barenaked
+bastard
+bastardo
+bastinado
+bbw
+bdsm
+beaner
+beaners
+beastiality
+beaver cleaver
+beaver lips
+bestiality
+betting
+big black
+big breasts
+big knockers
+big tits
+bimbos
+binance
+birdlock
+bitch
+bitches
+bitcoin
+black cock
+blonde action
+blonde on blonde action
+blow job
+blow your load
+blowjob
+blue waffle
+blumpkin
+bollocks
+bondage
+boner
+boob
+boobs
+booty call
+bounty
+brown showers
+brunette action
+bukkake
+bulldyke
+bullet vibe
+bullrun
+bullshit
+bung hole
+bunghole
+busty
+butt
+buttcheeks
+butthole
+camel toe
+camgirl
+camslut
+camwhore
+carpet muncher
+carpetmuncher
+cash
+casino
+cheap
+check my profile
+chocolate rosebuds
+cialis
+circlejerk
+cleveland steamer
+click here
+clit
+clitoris
+clover clamps
+clusterfuck
+cock
+cocks
+coon
+coons
+coprolagnia
+coprophilia
+cornhole
+creampie
+crypto
+cum
+cumming
+cumshot
+cumshots
+cunnilingus
+cunt
+darkie
+date rape
+daterape
+dating
+deep throat
+deepthroat
+dendrophilia
+dick
+dildo
+dingleberries
+dingleberry
+dirty pillows
+dirty sanchez
+dog style
+doggie style
+doggiestyle
+doggy style
+doggystyle
+dolcett
+domination
+dominatrix
+dommes
+donkey punch
+double dong
+double penetration
+dp action
+dry hump
+dump
+dvda
+earn
+earn money
+eat my ass
+ecchi
+ejaculation
+erotic
+erotism
+escort
+eth
+eunuch
+fag
+faggot
+fecal
+felch
+fellatio
+feltch
+female squirting
+femdom
+figging
+fingerbang
+fingering
+fisting
+followers
+foot fetish
+footjob
+forex
+free
+free money
+frotting
+fuck
+fuck buttons
+fuckin
+fucking
+fucktards
+fudge packer
+fudgepacker
+futanari
+g-spot
+gamble
+gambling
+gang bang
+gangbang
+gay sex
+genitals
+giant cock
+girl on
+girl on top
+girls
+girls gone wild
+giveaway
+goatcx
+goatse
+god damn
+gokkun
+golden shower
+goo girl
+goodpoop
+goregasm
+grope
+group
+group sex
+guro
+hand job
+handjob
+hard core
+hardcore
+hentai
+homoerotic
+honkey
+hooker
+horny
+hot
+hot carl
+hot chick
+how to kill
+how to murder
+http://
+https://
+huge fat
+humping
+ico
+incest
+intercourse
+invest
+investment
+jack off
+jail bait
+jailbait
+jelly donut
+jerk off
+jigaboo
+jiggaboo
+jiggerboo
+jizz
+joinchat
+juggs
+kike
+kinbaku
+kinkster
+kinky
+knobbing
+leather restraint
+leather straight jacket
+lemon party
+limited time
+livesex
+loan
+lolita
+lovemaking
+make me come
+male squirting
+masturbate
+masturbating
+masturbation
+members
+menage a trois
+milf
+missionary position
+money
+mong
+motherfucker
+mound of venus
+mr hands
+muff diver
+muffdiving
+my nudes
+my photos
+nambla
+nawashi
+negro
+neonazi
+nft
+nig nog
+nigga
+nigger
+nimphomania
+nipple
+nipples
+nsfw
+nsfw images
+nude
+nudity
+nutten
+nympho
+nymphomania
+octopussy
+omorashi
+one cup two girls
+one guy one jar
+onlyfans
+orgasm
+orgy
+paedophile
+paki
+panties
+panty
+payment
+pedobear
+pedophile
+pegging
+penis
+pharma
+phone sex
+piece of shit
+pikey
+piss pig
+pissing
+pisspig
+playboy
+pleasure chest
+poker
+pole smoker
+ponyplay
+poof
+poon
+poontang
+poop chute
+poopchute
+porn
+porno
+pornography
+presale
+prince albert piercing
+private sale
+profit
+promo
+promotion
+pthc
+pubes
+pump
+punany
+pussy
+queaf
+queef
+quim
+raghead
+raging boner
+rape
+raping
+rapist
+rectum
+register now
+reverse cowgirl
+rimjob
+rimming
+rosy palm
+rosy palm and her 5 sisters
+roulette
+rusty trombone
+s&m
+sadism
+santorum
+scat
+schlong
+scissoring
+semen
+services
+sex
+sexcam
+sexo
+sexual
+sexuality
+sexually
+sexy
+shaved beaver
+shaved pussy
+shemale
+shibari
+shit
+shitblimp
+shitty
+shota
+shrimping
+signal
+signals
+skeet
+slanteye
+slots
+slut
+smut
+snatch
+snowballing
+sodomize
+sodomy
+software
+spastic
+special offer
+spic
+splooge
+splooge moose
+spooge
+spread legs
+spunk
+strap on
+strapon
+strappado
+strip club
+style doggy
+subscribers
+suck
+sucks
+suicide girls
+sultry women
+swastika
+swinger
+t.me/+
+t.me/c/
+t.me/joinchat
+tainted love
+taste my
+tea bagging
+threesome
+throating
+thumbzilla
+tied up
+tight white
+tit
+tits
+titties
+titty
+tongue in a
+topless
+tosser
+towelhead
+trading
+tranny
+tribadism
+trx
+tub girl
+tubgirl
+tushy
+twat
+twink
+twinkie
+two girls one cup
+u
+undressing
+upskirt
+urethra play
+urophilia
+usdt
+u币
+vagina
+venus mound
+viagra
+vibrator
+violet wand
+vorarephilia
+voyeur
+voyeurweb
+voyuer
+vpn
+vulva
+wank
+wet dream
+wetback
+white power
+whitelist
+whore
+work from home
+worldsex
+wrapping men
+wrinkled starfish
+xx
+xxx
+yaoi
+yellow showers
+yiffy
+zoophilia
+бесплатно
+биток
+бонус
+девушки
+деньги
+закладка
+заработок
+знакомства
+инвестиции
+интим
+казино
+крипта
+наркотик
+покер
+порно
+проститутки
+рулетка
+сигналы
+слоты
+ставки
+трейдинг
+اربح
+حصريا
+درآمد
+رایگان
+سکس
+فارکس
+للكبار
+مجاني
+موقع
+کانال
+کسب
+کون
+一手
+上门
+上门服务
+丝足
+主播
+交友
+交易所
+人民币
+代发
+代投
+会员
+会所
+体育
+免费
+公群
+兼职
+内幕
+出现
+刷单
+刷粉
+加速
+包养
+博彩
+发单
+同城
+基金
+外围
+外汇
+嫩模
+官网
+工作室
+引流
+彩票
+成人
+手续费
+投注
+担保
+拉人
+换汇
+推广
+放水
+新茶
+期货
+机场
+棋牌
+洗米
+洗钱
+流量
+涨粉
+点位
+点券
+狗庄
+理财
+电子
+留学生
+白资
+直播
+直通
+看片
+真人
+破解
+福利
+空降
+约p
+约炮
+网红
+美女
+群组
+翻墙
+股票
+色情
+节点
+茶
+解封
+试玩
+资源
+赌博
+赚钱
+跑分
+车队
+软件
+返利
+频道
+高端
+黑庄
+🖕
