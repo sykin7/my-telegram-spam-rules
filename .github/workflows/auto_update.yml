@@ -10,6 +10,12 @@ on:
 
 jobs:
   update-rules:
+    # ------------------------------------------------------------------
+    # 关键修复：添加权限，允许 actions/checkout 和 git-auto-commit 写入仓库
+    # ------------------------------------------------------------------
+    permissions:
+      contents: write
+    # ------------------------------------------------------------------
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
@@ -29,6 +35,5 @@ jobs:
       - name: Commit and Push Changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          # 关键修复：字符串包含冒号，必须用单引号包裹
           commit_message: 'chore: Auto update spam.txt rules'
           file_pattern: spam.txt
