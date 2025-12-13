@@ -5,7 +5,7 @@ def update_rules():
     # --- 配置区域 ---
     # 这里使用了你脚本1中完整的规则源列表
     URLS_TO_FETCH = [
-        "https://raw.githubusercontent.com/sykin7/my-telegram-spam-rules/refs/heads/main/spam.txt",
+        "https://raw.githubusercontent.com/dablelv/dirty-cnwords/refs/heads/master/ad/all.txt",
         "https://raw.githubusercontent.com/spamkeywords/keywords/main/keywords.txt",
         "https://raw.githubusercontent.com/roumilb/spam_words_api_lists/main/spam_words_lists",
         "https://raw.githubusercontent.com/fwwdn/sensitive-stop-words/master/广告.txt",
